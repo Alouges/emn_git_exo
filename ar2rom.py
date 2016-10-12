@@ -5,7 +5,8 @@ conversion_map = (
     ('ix', 9),
     ('v', 5),
     ('iv', 4),
-    ('i', 1))
+    ('i', 1),
+    ('L', 50))
 
 
 def ar2rom(val):
